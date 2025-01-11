@@ -10,6 +10,7 @@ import pickle
 
 # Download NLTK resources
 nltk.download('punkt')
+nltk.download('punkt_tab')
 nltk.download('stopwords')
 
 # Load stopwords and stemmer
